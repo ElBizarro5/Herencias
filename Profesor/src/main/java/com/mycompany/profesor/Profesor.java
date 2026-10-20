@@ -14,7 +14,6 @@ public class Profesor extends Persona {
 
     @Override
     public String toString() {
-        return "Un profesor de edad " + edad
-                + ", con clave " + numEmpleado;
+        return "Un profesor de edad " + edad + ", con clave " + numEmpleado;
     }
 }
